@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Engineer</h3>
 <br>
 
-<img align="right" alt="coding" width="400" src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-1272.gif">
+<img align="right" alt="coding" width="350" src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-1272.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedgito&label=Profile%20views&color=1ca0f2&style=plastic" alt="ahmedgito" /> </p>
 
@@ -12,9 +12,9 @@
 
 - 👨‍💻 All of my projects are available at **https://ahmedgito.github.io**
 
- <p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=ahmedgito&show_icons=true&theme=dark&title_color=fffafa&text_color=4da3ff&locale=en" alt="ahmedgito" /></p>
+ <p>&nbsp;<img align="center" width="350" src="https://github-readme-stats.vercel.app/api?username=ahmedgito&show_icons=true&theme=dark&title_color=fffafa&text_color=4da3ff&locale=en" alt="ahmedgito" /></p>
 
-<p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedgito&theme=dark" alt="ahmedgito" /></p>
+<p><img align="right" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedgito&theme=dark" alt="ahmedgito" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
