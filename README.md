@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **m.ahmedd390@gmail.com**
 
-- 👨‍💻 All of my projects are available at **https://ahmedgito.github.io**
-
  <p>&nbsp;<img align="centre" width="350" src="https://github-readme-stats.vercel.app/api?username=ahmedgito&show_icons=true&theme=dark&title_color=fffafa&text_color=4da3ff&locale=en" alt="ahmedgito" /></p>
 
 <p><img align="right" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedgito&theme=dark" alt="ahmedgito" /></p>
