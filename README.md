@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedgito&label=Profile%20views&color=1ca0f2&style=plastic" alt="ahmedgito" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web-Apps**
+- 🌱 **Full Stack Web-App Developer**
 
 - 📫 How to reach me **m.ahmedd390@gmail.com**
 
