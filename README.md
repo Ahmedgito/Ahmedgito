@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A Passionate Software Engineer</h3>
+<h1 align="center">Muhammad Ahmed</h1>
+<h3 align="center">Full Stack Dev focused on AI ML</h3>
 <br>
 
 <img align="right" alt="coding" width="350" src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-1272.gif">
