@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=ahmedgito&label=Profile%20views&color=1ca0f2&style=plastic" alt="ahmedgito" />
 </p>
 
-<img align="right" alt="coding" width="350" src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-1272.gif">
+<img align="right" alt="coding" width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCwEhjOo58lgmeEm9gTzkifrqv2YPxKTtzOA&s">
 
 ### 🌱 Full Stack Web-App Developer  
 ### 📫 How to reach me: **m.ahmedd390@gmail.com**
