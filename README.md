@@ -6,7 +6,7 @@
 
 <img align="right" alt="coding" width="400" src="https://giffiles.alphacoders.com/221/221780.gif">
 
-### 🌱 Full Stack Web-App Developer  
+### 🌱 AI & ML Engineer 
 ### 📫 How to reach me: **m.ahmedd390@gmail.com**
 
 <br>
